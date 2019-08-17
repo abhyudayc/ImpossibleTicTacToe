@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Impossible Tic Tac Toe</string>
+    <string name="shared_pref_name">IMPOSSIBLE TTT SHARED PREF</string>
+    <string name="if_first_time">FIRST_TIME</string>
+    <string name="current_coins">CURRENT_COINS</string>
+    <string name="last_login">LAST_LOGIN</string>
+    <string name="playing_against">PLAYING_AGAINST</string>
+    <string name="player1_sign">PLAYER1_SIGN</string>
+    <string name="player2_sign">PLAYER2_SIGN</string>
+    <integer name="against_computer_charge">5</integer>
+    <integer name="against_human_charge">2</integer>
+    <integer name="ad_reward">20</integer>
+    <integer name="half_an_hour_reward">25</integer>
+    <integer name="time_const_to_credit_coins">1800000</integer>
+    <integer name="max_delay_between_two_back_presses">2000</integer>
+    <string name="admob_app_id">ca-app-pub-6671130189397523~3297169225</string>
+    <string name="admob_ad_id">ca-app-pub-6671130189397523/5101205489</string>
+    <string name="music_play">MUSIC_PLAY</string>
+    <string name="count_till_app_rater_show">COUNT_TILL_APP_RATER_SHOW</string>
+    <integer name="number_of_launches_between_app_rater_dialogs">20</integer>
+    <string name="show_app_rater_any_more">SHOW_APP_RATER_ANY_MORE</string>
+</resources>
